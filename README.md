@@ -1,0 +1,1 @@
+Sou desenvolvedor full stack e de jogos 2D em linguagem lua usando as engines e framework Defold, Corona SDK e Love2D. Possuo conhecimento nas linguagens de programação python, php, javascript, lua e C, também tenho noções de uso dos frameworks Bootstrap e JQuery, sou autodidata e estou sempre em busca de aprender tecnologias novas.
