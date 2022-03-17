@@ -6,5 +6,5 @@
 <p>Bancos de dados relacionais SQLite, MySQL e PostgreSQL;</p>
 <p>Engines e frameworks Godot, Defold, Corona SDK e Love2D;</p>
 <p>E muito mais...</p>
-
+</br>
 <p>Linkedin: <a href="https://www.linkedin.com/in/hdavi">HDavi</a></p>
