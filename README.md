@@ -4,6 +4,7 @@
   <p><b>Sou autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
 </div>
 <hr>
+## Habilidades
 <div style="display: inline_block">
   <img height="30px" width="10%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img height="30px" width="10%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -25,6 +26,7 @@
   <img height="30px" width="10%" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 <hr>
+## Contatos
 <div style="display: inline_block">
   <a href="mailto:hudson.davi.cds@gmail.com" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.wa.me/5592991154731" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
