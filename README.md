@@ -1,5 +1,5 @@
 <div>
-  <p><b>Sou desenvolvedor Full Stack e de Games 2D, autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
+  <p><b>Me chamo Hudson Davi, tenho experiência com desenvolvimento: Front End, Back End e de Games 2D. Sou autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
 </div>
 </br>
 <div style="display: inline_block">
