@@ -6,7 +6,7 @@
 </div>
 <hr>
 <h3>Habilidades:</h3>
-<div style="display: inline_block">
+<div display="inline_block">
   <img height="30px" width="10%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img height="30px" width="10%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img height="30px" width="10%" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -28,7 +28,7 @@
 </div>
 <hr>
 <h3>Contatos:</h3>
-<div style="display: inline_block">
+<div display="inline_block">
   <a href="mailto:hudson.davi.cds@gmail.com" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.wa.me/5592991154731" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://www.t.me/HudsonDavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
