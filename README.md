@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/hdavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </br>
-</hr height="5px">
+---
 </br>
 <div align="center">
   <a href="https://github.com/HudDavi">
