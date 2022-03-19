@@ -1,9 +1,9 @@
 <div>
-  <p>Sou desenvolvedor Full Stack e de Games 2D, autodidata e estou sempre em busca de aprender tecnologias novas.</p>
+  <p><b>Sou desenvolvedor Full Stack e de Games 2D, autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
 </div>
 </br>
 <div style="display: inline_block">
-  <img width="5%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img width="10%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 </br>
 <div style="display: inline_block">
