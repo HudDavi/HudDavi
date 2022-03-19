@@ -1,5 +1,7 @@
 <div>
-  <p><b>Me chamo Hudson Davi, tenho experiência com desenvolvimento: Front End, Back End e de Games 2D. Sou autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
+  <p><b>Olá, me chamo Hudson Davi!</b></p>
+  <p><b>Tenho experiência com desenvolvimento: Front End, Back End e de Games 2D.</b></p>
+  <p><b>Sou autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
 </div>
 </br>
 <div style="display: inline_block">
