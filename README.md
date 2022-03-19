@@ -1,10 +1,11 @@
+<h3>Sobre mim:</h3>
 <div>
   <p><b>Olá, me chamo Hudson Davi!</b></p>
   <p><b>Tenho experiência com desenvolvimento de: Front End, Back End e Games 2D.</b></p>
   <p><b>Sou autodidata e estou sempre em busca de aprender tecnologias novas.</b></p>
 </div>
 <hr>
-<h3>Habilidades</h3>
+<h3>Habilidades:</h3>
 <div style="display: inline_block">
   <img height="30px" width="10%" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img height="30px" width="10%" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -26,7 +27,7 @@
   <img height="30px" width="10%" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </div>
 <hr>
-<h3>Contatos</h3>
+<h3>Contatos:</h3>
 <div style="display: inline_block">
   <a href="mailto:hudson.davi.cds@gmail.com" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.wa.me/5592991154731" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
@@ -37,6 +38,7 @@
   <a href="https://www.linkedin.com/in/hdavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <hr>
+<h3>Estatísticas:</h3>
 <div align="center">
   <a href="https://github.com/HudDavi">
   <img height="100%" width="45%" src="https://github-readme-stats.vercel.app/api?username=HudDavi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
