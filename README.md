@@ -26,10 +26,10 @@
 </div>
 </br>
 <div style="display: inline_block">
-  <a href="mailto:hudson.davi.cds@gmail.com"><img height="30px" width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.t.me/HudsonDavi"><img height="30px" width="10%" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/HDCDS"><img height="30px" width="10%" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hdavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:hudson.davi.cds@gmail.com" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.t.me/HudsonDavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://www.facebook.com/HDCDS" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hdavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 </br>
 <div align="center">
