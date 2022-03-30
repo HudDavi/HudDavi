@@ -36,6 +36,8 @@
   <a href="https://www.facebook.com/HDCDS" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/huddavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hdavi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://join.skype.com/invite/t9e52z0qBxuL" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/SKYPE-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"></a>
+  <a href="https://pt.stackoverflow.com/users/281892/hudson-davi" target="_blank"><img height="30px" width="10%" src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 </div>
 <hr>
 <h3>Estatísticas:</h3>
